@@ -1,5 +1,6 @@
 I.G.O.R. Reloaded
 =================
+I.G.O.R. Reloaded is an action hack and slay created with Unity3D.
 
 
 ## Credits
