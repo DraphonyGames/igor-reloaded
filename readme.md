@@ -24,8 +24,8 @@ Contributors of the first demo are:
 
 External works are licensed under their respective license.
 
+
 ## Credits of external works
-This list is referring to the first demo version.
 
 ### Fonts
 * Font: Gustavo Paz -- CC BY 3.0 -- http://openfontlibrary.org/de/font/airborne
