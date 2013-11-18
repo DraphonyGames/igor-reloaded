@@ -1,0 +1,77 @@
+fileFormatVersion: 2
+guid: 2f303efbc89dad94e94d1c36fc319c22
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: main
+    100002: Plate
+    100004: //RootNode
+    100006: WeightTrigger
+    100008: WeightTriggerArmature
+    100010: WeightTriggerInner
+    400000: main
+    400002: Plate
+    400004: //RootNode
+    400006: WeightTrigger
+    400008: WeightTriggerArmature
+    400010: WeightTriggerInner
+    4300000: WeightTrigger
+    4300002: WeightTriggerInner
+    7400000: Default Take
+    7400002: Off
+    7400004: On
+    9500000: //RootNode
+    13700000: WeightTrigger
+    13700002: WeightTriggerInner
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: cad47d74d54b10d44961b8af257959e6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_004
+    100010: Bone_005
+    100012: Bone_006
+    100014: Bone_007
+    100016: Bone_008
+    100018: Bone_009
+    100020: Bone_010
+    100022: Bone_011
+    100024: Bone_012
+    100026: Bone_013
+    100028: Bone_014
+    100030: Bone_015
+    100032: Bone_016
+    100034: //RootNode
+    100036: Zylinder01
+    100038: Arm
+    100040: Base
+    100042: CenterBL
+    100044: CenterBR
+    100046: CenterFL
+    100048: CenterFR
+    100050: FootBL
+    100052: FootBR
+    100054: FootFL
+    100056: FootFR
+    100058: Gun
+    100060: Neck
+    100062: BackLeftFoot
+    100064: BackLeftLeg
+    100066: BackRightFoot
+    100068: BackRightLeg
+    100070: FrontLeftFoot
+    100072: FrontLeftLeg
+    100074: FrontRightFoot
+    100076: FrontRightLeg
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_004
+    400010: Bone_005
+    400012: Bone_006
+    400014: Bone_007
+    400016: Bone_008
+    400018: Bone_009
+    400020: Bone_010
+    400022: Bone_011
+    400024: Bone_012
+    400026: Bone_013
+    400028: Bone_014
+    400030: Bone_015
+    400032: Bone_016
+    400034: //RootNode
+    400036: Zylinder01
+    400038: Arm
+    400040: Base
+    400042: CenterBL
+    400044: CenterBR
+    400046: CenterFL
+    400048: CenterFR
+    400050: FootBL
+    400052: FootBR
+    400054: FootFL
+    400056: FootFR
+    400058: Gun
+    400060: Neck
+    400062: BackLeftFoot
+    400064: BackLeftLeg
+    400066: BackRightFoot
+    400068: BackRightLeg
+    400070: FrontLeftFoot
+    400072: FrontLeftLeg
+    400074: FrontRightFoot
+    400076: FrontRightLeg
+    4300000: Zylinder01
+    7400000: Default Take
+    7400002: Attack
+    7400004: Stand
+    7400006: Walk
+    9500000: //RootNode
+    13700000: Zylinder01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.20000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

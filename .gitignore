@@ -1,0 +1,28 @@
+# OS X only:
+.DS_Store
+*.swp
+*.Trashes
+ 
+# All platforms:
+$tf
+Assets/Save/*.save*
+Assets/Save/*.dat*
+Library
+Temp
+obj
+
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.userprefs
+
+#Blender
+*.blend1
+*.blend2
+*.blend1.meta
+*.blend2.meta
+
+Thumbs.db
+Thumbs.db.meta

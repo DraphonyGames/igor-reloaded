@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 8d9e907afb19b5c43b9a1ec7269c20f8
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Chest_L
+    100006: Chest_R
+    100008: Chin
+    100010: Foot_L
+    100012: Foot_R
+    100014: Hand_L
+    100016: Hand_R
+    100018: Head
+    100020: Hip_L
+    100022: Hip_R
+    100024: //RootNode
+    100026: LowerArm_L
+    100028: LowerArm_R
+    100030: LowerBody
+    100032: LowerLeg_L
+    100034: LowerLeg_R
+    100036: main
+    100038: Neck
+    100040: Steve
+    100042: StevesClothes
+    100044: UpperArm_L
+    100046: UpperArm_R
+    100048: UpperLeg_L
+    100050: UpperLeg_R
+    400000: Armature
+    400002: Chest
+    400004: Chest_L
+    400006: Chest_R
+    400008: Chin
+    400010: Foot_L
+    400012: Foot_R
+    400014: Hand_L
+    400016: Hand_R
+    400018: Head
+    400020: Hip_L
+    400022: Hip_R
+    400024: //RootNode
+    400026: LowerArm_L
+    400028: LowerArm_R
+    400030: LowerBody
+    400032: LowerLeg_L
+    400034: LowerLeg_R
+    400036: main
+    400038: Neck
+    400040: Steve
+    400042: StevesClothes
+    400044: UpperArm_L
+    400046: UpperArm_R
+    400048: UpperLeg_L
+    400050: UpperLeg_R
+    4300000: StevesClothes
+    4300002: Steve
+    7400000: Default Take
+    7400002: Stand
+    7400004: Tablet
+    9500000: //RootNode
+    13700000: Steve
+    13700002: StevesClothes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

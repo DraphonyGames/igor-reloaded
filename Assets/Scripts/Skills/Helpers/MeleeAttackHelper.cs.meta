@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0047af1e61010d948a8f50f4a6ad7223
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - punchSound: {fileID: 8300000, guid: 44b3a8316d2dffc4fa945f7c10c16777, type: 3}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
