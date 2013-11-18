@@ -1,0 +1,6 @@
+/config:MRefBuilder.config
+/out:reflection.org
+/internal+
+/dep:C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll
+/dep:C:\Users\jonas\Source\Repos\swp13ss_igor_reloaded\Sandcastle\..\..\..\..\..\..\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll
+C:\Users\jonas\Source\Repos\swp13ss_igor_reloaded\Unity\Temp\bin\Debug\Assembly-CSharp.dll
